@@ -789,6 +789,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -802,10 +803,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: cc2ff504-87f3-4d4d-94f9-2b0a0bc1a15d
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: My project
+  organizationId: updesh
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
